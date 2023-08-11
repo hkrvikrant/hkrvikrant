@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://vikranttomar.com/#portfolio](https://vikranttomar.com/#portfolio)
 
+- 💬 Ask me about **React, React Native, JavaScript**
+
 - 📫 How to reach me **vikranttomartech@gmail.com**
 
 - 📄 Know about my experiences [https://vikranttomar.com/#resume](https://vikranttomar.com/#resume)
